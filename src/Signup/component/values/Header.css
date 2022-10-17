@@ -1,0 +1,21 @@
+.title{
+    letter-spacing: 0;
+    min-height: 43px;
+    white-space: nowrap;
+    position: absolute;
+    width: 108px;
+    height: 43px;
+    left: 862.34px;
+    top: 240.76px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 120%;
+    /* or 43px */
+
+
+    color: #051733;
+
+}

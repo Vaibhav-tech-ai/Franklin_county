@@ -1,0 +1,17 @@
+.outer-box{
+    background-color: rgba(255,255,255,1);
+    border: 5.67px;
+    border-color: #c4c4c452;
+    border-radius: 3.34px;
+    box-shadow: 0px 1.67px 8.18px #0000001a;
+    height: 534px;
+    width: 577px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    
+}
